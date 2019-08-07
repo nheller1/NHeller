@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>The Most Wonderful Time Of The Year</title>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<img src="forkit.gif" id="octocat" alt="" />
+
+<!-- FALL ZONE -->
+<p>
+  Fall is my favorite time of the year.
+</p>
+<p>
+  Bonfires, Hayrides, Sweaters, and Fall leaves.
+</p>
+
+</body>
+</html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
